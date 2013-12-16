@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Bouncing_Bravery.Camera">
+    <Position X="3.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQAAAgAAAAAAAAAAAAAAAABABIAAAAQAgAAAAgAAAA=</HashCode>
+      <FileName>Camera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bouncing_Bravery.Danger">
+    <Position X="7" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAIBACAgAAAAAAAABAAAAIAAA=</HashCode>
+      <FileName>Danger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bouncing_Bravery.DangerFactory">
+    <Position X="5.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DangerFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bouncing_Bravery.DataManager">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAgAkAAIAQAACAAYAAAJAACCAAAQAgABAAAAACIIA=</HashCode>
+      <FileName>DataManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bouncing_Bravery.EventHandler">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAkAAAABAAAAQAAQAAAAAAAIAAAAQAAAAAAA=</HashCode>
+      <FileName>EventHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bouncing_Bravery.Game1">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gA0AEEBBgMEAAwAAAACQIAQAAIAACQgAAiIQAAgADgQ=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bouncing_Bravery.GameConstants">
+    <Position X="10.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAgAARECESAQAABAAAAYAQAAAAABgAACAQAAAg4=</HashCode>
+      <FileName>GameConstants.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bouncing_Bravery.Hero">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAQQEAAAAIACAAAgACAQAhAACgAAAAABAgggEAAGAAA=</HashCode>
+      <FileName>Hero.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bouncing_Bravery.Map">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAEAQAABQAAAACAAAAAAAAIwBAAAAkAAQQAAAQABA=</HashCode>
+      <FileName>Map.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bouncing_Bravery.Program">
+    <Position X="12.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bouncing_Bravery.Screen">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIQIAAAgAgAIIEJFAAwEBAAAgBACAAAEIQEAAAAAII=</HashCode>
+      <FileName>Screen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bouncing_Bravery.Sounds">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQACAAAAQBAIAAABChAAAAgQACQAAAAAgAAAIAQAAAA=</HashCode>
+      <FileName>Sounds.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Bouncing_Bravery.Star">
+    <Position X="7" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAIBAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Star.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Bouncing_Bravery.Tile">
+    <Position X="8.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAACAAAAAAAAQAAAICAAAGAgAAQgAAAI=</HashCode>
+      <FileName>Tile.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

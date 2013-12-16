@@ -1,0 +1,436 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Models\13-Vector-Seamless-Patterns-Of-Colorful-Dot-thumb02.jpg</Source>
+      <Name>Models\13-Vector-Seamless-Patterns-Of-Colorful-Dot-thumb02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Models\13-Vector-Seamless-Patterns-Of-Colorful-Dot-thumb02.xnb</Output>
+      <Time>2013-12-16T00:38:12.6604329+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\UI\wood.png</Source>
+      <Name>Images\UI\wood</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Images\UI\wood.xnb</Output>
+      <Time>2013-11-20T13:53:57.2851638+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\UI\heart_2.png</Source>
+      <Name>Images\UI\heart</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Images\UI\heart.xnb</Output>
+      <Time>2013-11-20T14:04:13.2931982+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\UI\clock.png</Source>
+      <Name>Images\UI\clock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Images\UI\clock.xnb</Output>
+      <Time>2013-11-20T14:09:36.7380995+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\UI\Stars_01_512x512_002.png</Source>
+      <Name>Images\UI\star</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Images\UI\star.xnb</Output>
+      <Time>2013-11-20T14:14:50.1211992+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\UI\Sound - Off.png</Source>
+      <Name>Images\UI\Sound - Off</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Images\UI\Sound - Off.xnb</Output>
+      <Time>2013-11-21T17:06:43.0937019+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\UI\Sound - On.png</Source>
+      <Name>Images\UI\Sound - On</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Images\UI\Sound - On.xnb</Output>
+      <Time>2013-11-21T17:06:43.0917014+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Grass_2.png</Source>
+      <Name>Textures\Grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Textures\Grass.xnb</Output>
+      <Time>2013-11-26T00:36:22.9474937+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\water.jpg</Source>
+      <Name>Textures\water</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Textures\water.xnb</Output>
+      <Time>2013-11-26T00:42:54.9963682+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\UI\filter.png</Source>
+      <Name>Images\UI\filter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Images\UI\filter.xnb</Output>
+      <Time>2013-11-26T16:05:50.3867139+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\UI\bar.png</Source>
+      <Name>Images\UI\bar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Images\UI\bar.xnb</Output>
+      <Time>2013-11-26T22:41:27.5504264+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\ending.png</Source>
+      <Name>Images\won</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Images\won.xnb</Output>
+      <Time>2013-12-16T05:47:16.3341296+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\cursor.png</Source>
+      <Name>Images\cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Images\cursor.xnb</Output>
+      <Time>2013-12-16T06:30:28.6167515+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\png meniu.png</Source>
+      <Name>Images\menu1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Images\menu1.xnb</Output>
+      <Time>2013-12-16T06:31:02.5611216+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\credits.png</Source>
+      <Name>Images\menu3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Images\menu3.xnb</Output>
+      <Time>2013-12-16T06:46:04.1283289+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\help.png</Source>
+      <Name>Images\menu2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Images\menu2.xnb</Output>
+      <Time>2013-12-16T06:46:04.1213284+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\bounce.wav</Source>
+      <Name>Sounds\bounce</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Sounds\bounce.xnb</Output>
+      <Time>2013-11-19T17:37:28.4589982+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\jump.wav</Source>
+      <Name>Sounds\jump</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Sounds\jump.xnb</Output>
+      <Time>2013-11-20T02:23:21.6176796+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\2e63b9_Mario_Bros_Die_Sound_Effect.wav</Source>
+      <Name>Sounds\death</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Sounds\death.xnb</Output>
+      <Time>2013-11-26T17:40:59.9469235+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\coin (online-audio-converter.com).wav</Source>
+      <Name>Sounds\coin</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Sounds\coin.xnb</Output>
+      <Time>2013-11-27T23:53:03.4603238+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\songofstorms.mp3</Source>
+      <Name>Sounds\songofstorms</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Sounds\songofstorms.xnb</Output>
+      <Extra>C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Sounds\songofstorms.wma</Extra>
+      <Time>2013-11-20T02:19:01.718227+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Sonic the Hedgehog 2 - Super Sonic's Theme [Genesis] Music-[www_flvto_com].mp3</Source>
+      <Name>Sounds\sonic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Sounds\sonic.xnb</Output>
+      <Extra>C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Sounds\sonic.wma</Extra>
+      <Time>2013-12-16T04:06:02.8843782+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\prelude.mp3</Source>
+      <Name>Sounds\prelude</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Sounds\prelude.xnb</Output>
+      <Extra>C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Sounds\prelude.wma</Extra>
+      <Time>2013-12-16T06:52:32.74342+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\simple.spritefont</Source>
+      <Name>Fonts\simple</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Fonts\simple.xnb</Output>
+      <Time>2013-11-20T13:03:08.7825573+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\redtorus.fbx</Source>
+      <Name>Models\redtorus</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Models\redtorus.xnb</Output>
+      <Time>2013-11-26T19:15:44.7762963+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\redtorus_0.xml</Key>
+        <Value>2013-12-16T13:53:42.6516112+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\FBX\F8A3356B\redtorus.fbm\redtexture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\starscaled.FBX</Source>
+      <Name>Models\starscaled</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Models\starscaled.xnb</Output>
+      <Time>2013-11-27T22:40:53.4064905+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\starscaled_0.xml</Key>
+        <Value>2013-12-16T13:53:43.7766097+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Models\Textures_wallpapers_83_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\shadow.FBX</Source>
+      <Name>Models\shadow</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Models\shadow.xnb</Output>
+      <Time>2013-11-27T23:01:25.3375884+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\shadow_0.xml</Key>
+        <Value>2013-12-16T13:53:54.5694984+00:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\ball 2nd try.FBX</Source>
+      <Name>Models\Ball</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Models\Ball.xnb</Output>
+      <Time>2013-12-16T00:37:45.6653276+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\ball 2nd try_0.xml</Key>
+        <Value>2013-12-16T13:53:54.7726221+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\13-Vector-Seamless-Patterns-Of-C_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\15 one.FBX</Source>
+      <Name>Models\danger1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Models\danger1.xnb</Output>
+      <Time>2013-12-16T03:11:41.4268876+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\15 one_0.xml</Key>
+        <Value>2013-12-16T13:53:55.381996+00:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\spikeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.FBX</Source>
+      <Name>Models\spike</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Models\spike.xnb</Output>
+      <Time>2013-12-16T05:38:42.9830132+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\spikeeeeeeeeeeeeeeeeeeeeeeeeeeee_0.xml</Key>
+        <Value>2013-12-16T13:53:55.5226213+00:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\redtorus.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\redtorus_0.xml</Output>
+      <Time>2013-11-26T19:15:44.7762963+00:00</Time>
+    </Item>
+    <Item>
+      <Source>obj\x86\Debug\FBX\F8A3356B\redtorus.fbm\redtexture.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\FBX\F8A3356B\redtorus.fbm\redtexture_0.xnb</Output>
+      <Time>2013-12-16T13:53:41.85481+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\starscaled.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\starscaled_0.xml</Output>
+      <Time>2013-11-27T22:40:53.4064905+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Textures_wallpapers_83.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Models\Textures_wallpapers_83_0.xnb</Output>
+      <Time>2013-11-27T00:16:10.5932419+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\shadow.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\shadow_0.xml</Output>
+      <Time>2013-11-27T23:01:25.3375884+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ball 2nd try.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\ball 2nd try_0.xml</Output>
+      <Time>2013-12-16T00:37:45.6653276+00:00</Time>
+    </Item>
+    <Item>
+      <Source>13-Vector-Seamless-Patterns-Of-Colorful-Dot-thumb02.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\13-Vector-Seamless-Patterns-Of-C_0.xnb</Output>
+      <Time>2013-12-16T00:35:10+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\15 one.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\15 one_0.xml</Output>
+      <Time>2013-12-16T03:11:41.4268876+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\spikeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\spikeeeeeeeeeeeeeeeeeeeeeeeeeeee_0.xml</Output>
+      <Time>2013-12-16T05:38:42.9830132+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing BraveryContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing BraveryContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-11-12T22:28:59.9145863+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

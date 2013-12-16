@@ -1,0 +1,92 @@
+C:\Users\Luciano\Documents\Visual Studio 2010\Projects\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Bouncing Bravery.exe
+C:\Users\Luciano\Documents\Visual Studio 2010\Projects\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Bouncing Bravery.pdb
+C:\Users\Luciano\Documents\Visual Studio 2010\Projects\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\obj\x86\Debug\Bouncing Bravery.csprojResolveAssemblyReference.cache
+C:\Users\Luciano\Documents\Visual Studio 2010\Projects\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Luciano\Documents\Visual Studio 2010\Projects\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\obj\x86\Debug\Bouncing Bravery.exe
+C:\Users\Luciano\Documents\Visual Studio 2010\Projects\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\obj\x86\Debug\Bouncing Bravery.pdb
+C:\Users\Luciano\Documents\Visual Studio 2010\Projects\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Sounds\bounce.xnb
+C:\Users\Luciano\Documents\Visual Studio 2010\Projects\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Sounds\songofstorms.xnb
+C:\Users\Luciano\Documents\Visual Studio 2010\Projects\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Sounds\songofstorms.wma
+C:\Users\Luciano\Documents\Visual Studio 2010\Projects\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Sounds\jump.xnb
+C:\Users\Luciano\Documents\Visual Studio 2010\Projects\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Fonts\simple.xnb
+C:\Users\Luciano\Documents\Visual Studio 2010\Projects\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Images\UI\wood.xnb
+C:\Users\Luciano\Documents\Visual Studio 2010\Projects\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Images\UI\heart.xnb
+C:\Users\Luciano\Documents\Visual Studio 2010\Projects\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Images\UI\clock.xnb
+C:\Users\Luciano\Documents\Visual Studio 2010\Projects\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Images\UI\star.xnb
+C:\Users\Luciano\Documents\Visual Studio 2010\Projects\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Images\UI\Sound - Off.xnb
+C:\Users\Luciano\Documents\Visual Studio 2010\Projects\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Images\UI\Sound - On.xnb
+C:\Users\Luciano\Documents\Visual Studio 2010\Projects\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Textures\water.xnb
+C:\Users\Luciano\Documents\Visual Studio 2010\Projects\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Images\UI\filter.xnb
+C:\Users\Luciano\Documents\Visual Studio 2010\Projects\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Sounds\death.xnb
+C:\Users\Luciano\Documents\Visual Studio 2010\Projects\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Models\redtorus.xnb
+C:\Users\Luciano\Documents\Visual Studio 2010\Projects\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\FBX\829F3473\redtorus.fbm\redtexture_0.xnb
+C:\Users\Luciano\Documents\Visual Studio 2010\Projects\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Images\UI\bar.xnb
+C:\Users\Luciano\Documents\Visual Studio 2010\Projects\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Models\Textures_wallpapers_83_0.xnb
+C:\Users\Luciano\Documents\Visual Studio 2010\Projects\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Models\starscaled.xnb
+C:\Users\Luciano\Documents\Visual Studio 2010\Projects\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Models\shadow.xnb
+C:\Users\Luciano\Documents\Visual Studio 2010\Projects\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Sounds\coin.xnb
+C:\Users\Luciano\Documents\Visual Studio 2010\Projects\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Models\Ball.xnb
+C:\Users\Luciano\Documents\Visual Studio 2010\Projects\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\13-Vector-Seamless-Patterns-Of-C_0.xnb
+C:\Users\Luciano\Documents\Visual Studio 2010\Projects\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Models\13-Vector-Seamless-Patterns-Of-Colorful-Dot-thumb02.xnb
+C:\Users\Luciano\Documents\Visual Studio 2010\Projects\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Models\danger1.xnb
+C:\Users\Luciano\Documents\Visual Studio 2010\Projects\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Sounds\sonic.xnb
+C:\Users\Luciano\Documents\Visual Studio 2010\Projects\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Sounds\sonic.wma
+C:\Users\Luciano\Documents\Visual Studio 2010\Projects\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Models\spike.xnb
+C:\Users\Luciano\Documents\Visual Studio 2010\Projects\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Images\won.xnb
+C:\Users\Luciano\Documents\Visual Studio 2010\Projects\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Images\cursor.xnb
+C:\Users\Luciano\Documents\Visual Studio 2010\Projects\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Images\menu1.xnb
+C:\Users\Luciano\Documents\Visual Studio 2010\Projects\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Images\menu3.xnb
+C:\Users\Luciano\Documents\Visual Studio 2010\Projects\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Images\menu2.xnb
+C:\Users\Luciano\Documents\Visual Studio 2010\Projects\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Sounds\prelude.xnb
+C:\Users\Luciano\Documents\Visual Studio 2010\Projects\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Sounds\prelude.wma
+C:\Users\Luciano\Documents\Visual Studio 2010\Projects\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Textures\Grass.xnb
+C:\Users\Luciano\Documents\Visual Studio 2010\Projects\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Bouncing Bravery.exe.manifest
+C:\Users\Luciano\Documents\Visual Studio 2010\Projects\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Bouncing Bravery.application
+C:\Users\Luciano\Documents\Visual Studio 2010\Projects\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\obj\x86\Debug\Bouncing Bravery.exe.manifest
+C:\Users\Luciano\Documents\Visual Studio 2010\Projects\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\obj\x86\Debug\Bouncing Bravery.application
+C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Models\13-Vector-Seamless-Patterns-Of-Colorful-Dot-thumb02.xnb
+C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Images\UI\wood.xnb
+C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Images\UI\heart.xnb
+C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Images\UI\clock.xnb
+C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Images\UI\star.xnb
+C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Images\UI\Sound - Off.xnb
+C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Images\UI\Sound - On.xnb
+C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Textures\Grass.xnb
+C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Textures\water.xnb
+C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Images\UI\filter.xnb
+C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Images\UI\bar.xnb
+C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Images\won.xnb
+C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Images\cursor.xnb
+C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Images\menu1.xnb
+C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Images\menu3.xnb
+C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Images\menu2.xnb
+C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Sounds\bounce.xnb
+C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Sounds\jump.xnb
+C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Sounds\death.xnb
+C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Sounds\coin.xnb
+C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Sounds\songofstorms.xnb
+C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Sounds\sonic.xnb
+C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Sounds\prelude.xnb
+C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Fonts\simple.xnb
+C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Models\redtorus.xnb
+C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Models\starscaled.xnb
+C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Models\shadow.xnb
+C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Models\Ball.xnb
+C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Models\danger1.xnb
+C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Models\spike.xnb
+C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\FBX\F8A3356B\redtorus.fbm\redtexture_0.xnb
+C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Models\Textures_wallpapers_83_0.xnb
+C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\13-Vector-Seamless-Patterns-Of-C_0.xnb
+C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Sounds\songofstorms.wma
+C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Sounds\sonic.wma
+C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Content\Sounds\prelude.wma
+C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Bouncing Bravery.exe.manifest
+C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Bouncing Bravery.application
+C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Bouncing Bravery.exe
+C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\bin\x86\Debug\Bouncing Bravery.pdb
+C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\obj\x86\Debug\Bouncing Bravery.csprojResolveAssemblyReference.cache
+C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\obj\x86\Debug\Bouncing Bravery.exe.manifest
+C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\obj\x86\Debug\Bouncing Bravery.application
+C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\obj\x86\Debug\Bouncing Bravery.exe
+C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing Bravery\obj\x86\Debug\Bouncing Bravery.pdb

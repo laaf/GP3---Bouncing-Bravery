@@ -1,0 +1,2 @@
+C:\Users\Luciano\Documents\Visual Studio 2010\Projects\Bouncing Bravery\Bouncing Bravery\Bouncing BraveryContent\obj\x86\Debug\Bouncing BraveryContent.contentprojResolveAssemblyReference.cache
+C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing BraveryContent\obj\x86\Debug\Bouncing BraveryContent.contentprojResolveAssemblyReference.cache

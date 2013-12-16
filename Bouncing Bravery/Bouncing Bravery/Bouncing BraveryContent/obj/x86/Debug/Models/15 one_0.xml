@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics" xmlns:Framework="Microsoft.Xna.Framework">
+  <Asset Type="Graphics:MeshContent">
+    <Name>Box001</Name>
+    <Identity>
+      <SourceFilename>C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing BraveryContent\Models\15 one.FBX</SourceFilename>
+      <SourceTool>FbxImporter</SourceTool>
+    </Identity>
+    <OpaqueData>
+      <Data Key="MaxHandle" Type="int">15</Data>
+    </OpaqueData>
+    <Transform>2.54 0 0 0 0 1.55530138E-16 -2.54 0 0 2.54 1.55530138E-16 0 0 0 0 1</Transform>
+    <Positions>-3.5 -3.5 0 3.5 -3.5 0 -3.5 3.5 0 3.5 3.5 0 -3.5 -3.5 9.374773 3.5 -3.5 9.374773 -3.5 3.5 9.374773 3.5 3.5 9.374773 3.5 -3.5 6.888299 -3.5 -3.5 6.888299 3.5 3.5 6.888299 -3.5 3.5 6.888299 0 3.5 0 0 -3.5 0 0 -0.5276432 15 0 -0.358917236 15 0 -3.5 6.888299 0 3.5 6.888299 2.862927 -2.862927 3.534749 2.862927 2.862927 3.534749 -2.862927 2.862927 3.534749 -2.862927 -2.862927 3.534749 0 -2.862927 3.534749 0 2.862927 3.534749 -2.862927 -2.862927 4.349036 2.862927 -2.862927 4.349036 2.862927 2.862927 4.349036 -2.862927 2.862927 4.349036 0 -2.862927 4.349036 0 2.862927 4.349036</Positions>
+    <Geometry>
+      <Batch>
+        <Material>#Resource1</Material>
+        <Indices>2 1 0 0 3 2 6 5 4 4 7 6 10 9 8 8 11 10 14 13 12 12 15 14 18 17 16 16 19 18 22 21 20 20 23 22 26 25 24 24 27 26 30 29 28 28 31 30 34 33 32 32 35 34 38 37 36 36 39 38 2 41 40 40 1 2 5 43 42 42 4 5 9 45 44 44 8 9 17 47 46 46 16 17 26 49 48 48 25 26 34 51 50 50 33 34 52 49 26 26 53 52 54 30 31 31 55 54 56 51 34 34 57 56 58 38 39 39 59 58 53 26 27 27 60 53 57 34 35 35 61 57</Indices>
+        <Vertices>
+          <PositionIndices>2 12 13 0 14 15 6 4 13 22 21 0 3 19 18 1 12 23 19 3 0 21 20 2 5 14 16 8 7 5 8 10 6 15 17 11 4 6 11 9 3 1 5 7 1 18 2 20 4 9 7 10 24 28 25 26 26 29 27 24 25 27</PositionIndices>
+          <Channels>
+            <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 1 8.065864E-08 0 1 -0.8490661 0 0.5282865 -0.849066138 0 0.5282865 0 -0.9841436 0.177373663 0 -0.996028066 0.0890405 0 -0.995595634 0.09375159 0 -0.984143555 0.177373633 0.984143555 0 0.177373648 0.9955956 0 0.0937515944 0.9955956 0 0.09375158 0.984143555 0 0.177373633 0 0.9841436 0.177373663 0 0.996028066 0.0890405 0 0.995595634 0.09375159 0 0.984143555 0.177373633 -0.984143555 0 0.177373648 -0.9955956 0 0.0937515944 -0.9955956 0 0.09375158 -0.984143555 0 0.177373633 -0.152873084 -0.9645334 0.215186566 0 -0.9389486 0.344057351 0 -0.9998687 -0.0162028633 0 -0.9936505 -0.112511173 1 0 0 1 0 0 0.9936505 0 -0.11251118 0.9936505 0 -0.11251118 0.1900632 0.944616556 0.267535925 0 0.903024554 0.429588974 0 0.999925 0.0122506339 0 0.9936505 -0.112511173 -1 0 0 -1 0 0 -0.9936505 0 -0.11251118 -0.9936505 0 -0.11251118 0 0 -1 0 0 -1 0.8490662 0 0.5282865 0.8490662 0 0.5282865 0 -0.984143555 0.177373648 0 -0.9955956 0.0937515944 0 0.984143555 0.177373648 0 0.9955956 0.0937515944 0.152873084 -0.9645334 0.215186566 0 -0.9936505 -0.11251118 -0.1900632 0.944616556 0.267535925 0 0.9936505 -0.11251118 0 -0.991349161 -0.131250933 0 -0.9924564 -0.122598365 0.9913492 0 -0.131250948 0.991349161 0 -0.131250918 0 0.991349161 -0.131250933 0 0.9924564 -0.122598365 -0.9913492 0 -0.131250948 -0.991349161 0 -0.131250918 0 -0.991349161 -0.131250918 0 0.991349161 -0.131250918</VertexChannel>
+            <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">1 0 0.5 0 0.5 1 1 1 0.5 1 0.5 0 0 0 0 1 0.5 1 0.5 0.75 0 0.75 0 1 1 1 1 0.75 0 0.75 0 1 0.5 1 0.5 0.75 0 0.75 0 1 1 1 1 0.75 0 0.75 0 1 1 0 0.5 0 0.5 0.5 1 0.5 1 0 0 0 0 0.5 1 0.5 1 0 0.5 0 0.5 0.5 1 0.5 1 0 0 0 0 0.5 1 0.5 0 0 0 1 1 1 1 0 1 1 1 0.75 1 1 1 0.75 0 0 0 0.5 0 0 0 0.5 0 0.625 0.5 0.625 0 0.625 1 0.625 0 0.625 0.5 0.625 0 0.625 1 0.625 1 0.625 1 0.625</VertexChannel>
+          </Channels>
+        </Vertices>
+      </Batch>
+      <Batch>
+        <Material>#Resource2</Material>
+        <Indices>2 1 0 0 3 2 6 5 4 4 7 6 10 9 8 8 11 10 14 13 12 12 15 14 3 0 16 16 17 3 11 8 18 18 19 11</Indices>
+        <Vertices>
+          <PositionIndices>28 24 21 22 26 25 18 19 29 26 19 23 24 27 20 21 25 18 27 20</PositionIndices>
+          <Channels>
+            <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 -0.9924564 -0.122598365 0 -0.991349161 -0.131250933 0 -0.995595634 0.09375159 0 -0.996028066 0.0890405 0.991349161 0 -0.131250918 0.9913492 0 -0.131250948 0.9955956 0 0.09375158 0.9955956 0 0.0937515944 0 0.9924564 -0.122598365 0 0.991349161 -0.131250933 0 0.995595634 0.09375159 0 0.996028066 0.0890405 -0.991349161 0 -0.131250918 -0.9913492 0 -0.131250948 -0.9955956 0 0.09375158 -0.9955956 0 0.0937515944 0 -0.991349161 -0.131250918 0 -0.9955956 0.0937515944 0 0.991349161 -0.131250918 0 0.9955956 0.0937515944</VertexChannel>
+            <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0.5 0.625 0 0.625 0 0.75 0.5 0.75 1 0.625 0 0.625 0 0.75 1 0.75 0.5 0.625 0 0.625 0 0.75 0.5 0.75 1 0.625 0 0.625 0 0.75 1 0.75 1 0.625 1 0.75 1 0.625 1 0.75</VertexChannel>
+          </Channels>
+        </Vertices>
+      </Batch>
+    </Geometry>
+  </Asset>
+  <Resources>
+    <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
+      <Name>01 - Default</Name>
+      <Identity>
+        <SourceFilename>C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing BraveryContent\Models\15 one.FBX</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.7490196 0.7490196 0.7490196</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="SpecularPower" Type="float">1.99999988</Data>
+      </OpaqueData>
+    </Resource>
+    <Resource ID="#Resource2" Type="Graphics:BasicMaterialContent">
+      <Name>02 - Default</Name>
+      <Identity>
+        <SourceFilename>C:\Users\Luciano\Documents\GitHub\GP3---Bouncing-Bravery\Bouncing Bravery\Bouncing Bravery\Bouncing BraveryContent\Models\15 one.FBX</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.294117659 0.0980392247 0</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="SpecularPower" Type="float">1.99999988</Data>
+      </OpaqueData>
+    </Resource>
+  </Resources>
+</XnaContent>
